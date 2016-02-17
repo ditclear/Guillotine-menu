@@ -1,7 +1,7 @@
 # Guillotine-menu
 铡刀式菜单，实现Yalantis的GuillotineMenu的效果
 
-###screenshot
+>screenshot
 ![](https://github.com/vienan/Guillotine-menu/blob/master/screenshot/screenshot.gif)
 
 ```java
@@ -68,4 +68,4 @@
     }
 ```
 
-###欢迎star和fork👍
+>欢迎`star`和`fork`👍
